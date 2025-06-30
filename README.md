@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resilient Email Sending Service
 
 ## Features
@@ -16,3 +17,6 @@
 
 ## Testing
 Use your preferred test runner (e.g., Jest or Mocha) to create unit tests in `tests/`.
+=======
+# emailSender
+>>>>>>> 4675c2c1ea15973c5ef2293fb84004bbbb3b82eb
